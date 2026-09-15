@@ -82,7 +82,7 @@
           </div>
         </div>
         <div style="border-radius: var(--radius-md); overflow: hidden; box-shadow: var(--shadow-lg); border: 1px solid rgba(255,255,255,0.15);">
-          <img src="/assets/images/ambiance_fireplace_dining_lounge.jpg" alt="Noodlesocial flagship showcase" style="width: 100%; height: auto;">
+          <img src="/assets/images/grand_feasting_table_spread.jpg" alt="Noodlesocial flagship showcase" style="width: 100%; height: auto;">
         </div>
       </div>
     </div>

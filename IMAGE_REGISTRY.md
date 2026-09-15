@@ -4,7 +4,7 @@ Documenting 20 authentic high-resolution images (>20KB) for noodlesocial in nich
 
 | File Name | Size (KB) | SHA256 Hash | Visual Subject |
 | :--- | :--- | :--- | :--- |
-| `ambiance_fireplace_dining_lounge.jpg` | 188.8 KB | `ff9a9a2038d66c84...` | Ambiance Fireplace Dining Lounge |
+| `grand_feasting_table_spread.jpg` | 188.8 KB | `ff9a9a2038d66c84...` | Grand Feasting Table Spread |
 | `candlelit_veranda_sunset_view.jpg` | 75.4 KB | `ed2b2b97f9a7a4bc...` | Candlelit Veranda Sunset View |
 | `blog_heat_retention_platters.jpg` | 142.8 KB | `2d79274e8c93d05f...` | Blog Heat Retention Platters |
 | `blog_wood_grain_boards.jpg` | 286.7 KB | `22d96a0f36617e7b...` | Blog Wood Grain Boards |
